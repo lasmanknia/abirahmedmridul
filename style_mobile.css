@@ -171,7 +171,7 @@
     width: 30vw;
     color: whitesmoke;
     border-radius: 20px;
-    font-size: 20px;
+    font-size: 1.2rem;
   }
   .btn:hover{
     background-color: rgb(255, 255, 255);
